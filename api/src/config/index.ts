@@ -1,0 +1,4 @@
+export const CONFIGS = {
+  LLM_BASE_URL: "https://api.groq.com/openai/v1",
+  LLM_MODEL: "qwen/qwen3.8-27b",
+};
